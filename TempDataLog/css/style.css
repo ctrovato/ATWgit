@@ -1,0 +1,14 @@
+#title{
+	text-align: center;
+	font-family: 'Quicksand', sans-serif;
+	overflow: scroll;
+	position: fixed;
+	z-index: 999;
+  	width: 100%;
+}
+
+
+#canvas{
+	margin-top: 80px;
+
+}
